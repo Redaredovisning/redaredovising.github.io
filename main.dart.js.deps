@@ -843,7 +843,9 @@ file:///Users/vadim/webProjects/reda_web/lib/ui/res/strings.dart
 file:///Users/vadim/webProjects/reda_web/lib/ui/res/styles.dart
 file:///Users/vadim/webProjects/reda_web/lib/ui/screens/auth/auth.dart
 file:///Users/vadim/webProjects/reda_web/lib/ui/screens/content_page/content_page.dart
+file:///Users/vadim/webProjects/reda_web/lib/ui/screens/edit_page/components/company_dialog.dart
 file:///Users/vadim/webProjects/reda_web/lib/ui/screens/edit_page/components/custom_checkbox.dart
+file:///Users/vadim/webProjects/reda_web/lib/ui/screens/edit_page/components/delete_user_dialog.dart
 file:///Users/vadim/webProjects/reda_web/lib/ui/screens/edit_page/components/password_dialog.dart
 file:///Users/vadim/webProjects/reda_web/lib/ui/screens/edit_page/components/table_cell.dart
 file:///Users/vadim/webProjects/reda_web/lib/ui/screens/edit_page/edit_page.dart
